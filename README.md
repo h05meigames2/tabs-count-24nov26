@@ -1,8 +1,8 @@
 # How Many Tabs Do You Have Open?
 
-[![make.fun](https://make.fun/badge/u-danu-how-many-tabs-do-you-have-open-d86e783d?owner=h05meigames2&repo=tabs-count-24nov26)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d)
-[![make.fun rank](https://make.fun/badge/u-danu-how-many-tabs-do-you-have-open-d86e783d/rank.svg?owner=h05meigames2&repo=tabs-count-24nov26)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d)
-[![make.fun reward](https://make.fun/badge/u-danu-how-many-tabs-do-you-have-open-d86e783d/reward.svg?owner=h05meigames2&repo=tabs-count-24nov26)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d)
+[![make.fun · u-danu-how-many-tabs-do-you-have-open-d86e783d](https://make.fun/badge/u-danu-how-many-tabs-do-you-have-open-d86e783d.svg)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d?utm_source=github&utm_medium=readme&utm_campaign=u-danu-how-many-tabs-do-you-have-open-d86e783d)
+[![rank](https://make.fun/badge/u-danu-how-many-tabs-do-you-have-open-d86e783d/h05meigames2/tabs-count-24nov26/rank.svg)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-danu-how-many-tabs-do-you-have-open-d86e783d)
+[![reward](https://make.fun/badge/u-danu-how-many-tabs-do-you-have-open-d86e783d/h05meigames2/tabs-count-24nov26/reward.svg)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d?utm_source=github&utm_medium=readme&utm_campaign=u-danu-how-many-tabs-do-you-have-open-d86e783d)
 
 Entry for the [make.fun bounty "How Many Tabs Do You Have Open?"](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d) — send one number, digits only: the honest count of open browser tabs.
 
